@@ -1,3 +1,4 @@
 learning first experiment
 along with rebase
 learning again rebase
+learning git merge with custom commit message
