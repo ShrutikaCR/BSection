@@ -1,5 +1,8 @@
 one
 two
 three
+<<<<<<< HEAD
 fourth
 fifth
+=======
+>>>>>>> 519cd1f (third feature)
